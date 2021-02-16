@@ -1,0 +1,16 @@
+{
+  "name": "Svelte Chrome Extension",
+  "version": "1.0.0",
+  "description": "Extensión de chrome utilizando svelte.",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "favicon.png"
+  },
+  "icons": {
+    "128": "favicon.png"
+  },
+  "manifest_version": 2
+}

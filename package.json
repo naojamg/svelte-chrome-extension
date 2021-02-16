@@ -1,6 +1,8 @@
 {
-  "name": "svelte-app",
+  "name": "svelte-chrome-extension",
   "version": "1.0.0",
+  "description": "Extensión de chrome utilizando svelte",
+  "author": "Joel Morales <naojamg>",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
